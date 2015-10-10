@@ -1,0 +1,112 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:weightSum="1"
+    tools:context=".Login"
+    android:background="@android:color/background_dark"
+
+    android:baselineAligned="true"
+    android:padding="0dp"><![CDATA[
+
+
+
+    "
+        android:textColor="#000000"
+
+         />
+
+
+
+    ]]>
+
+    <ImageView
+        android:layout_width="2486dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:src="@drawable/dog1"
+        android:paddingTop="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_margin="0dp"
+        android:layout_marginBottom="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginRight="0dp"
+        android:cropToPadding="false"
+        android:clickable="false"
+        android:baselineAlignBottom="false"
+        android:paddingStart="0dp"
+        android:paddingEnd="0dp"
+        android:scaleType="center"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.72" />
+
+    <TextView
+        android:id="@+id/espacio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="100dp"
+        android:textColor="#000000"
+        />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/txtCodigo"
+
+        android:layout_width="295dp"
+        android:layout_height="wrap_content"
+        android:ems="20"
+        android:inputType="number"
+
+        android:hint="Ingrese Usuario"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="0dp"
+        android:textColorHint="#ffc4fdff" />
+
+    <EditText
+        android:id="@+id/txtContraseña"
+        android:layout_width="295dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:hint="Ingrese Contraseña"
+        android:ems="20"
+        android:inputType="text"
+        android:textColorHint="#ffc4fdff"
+
+        android:textColor="#000000"
+
+        />
+
+    <Button
+        android:id="@+id/butIngresar"
+        android:layout_width="126dp"
+        android:layout_height="wrap_content"
+        android:text="Ingresar"
+        android:textColor="#000000"
+        android:layout_margin="4dp"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:id="@+id/butNuevo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nuevo?"
+        android:textColor="#000000"
+        android:layout_margin="4dp"
+        android:layout_gravity="center_horizontal" />
+
+
+</LinearLayout>
+

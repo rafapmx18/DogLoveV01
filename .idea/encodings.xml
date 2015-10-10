@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/som/pe/edu/ulima/doglovev01/MyActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/som/pe/edu/ulima/doglovev01/NavigationDrawerFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/som/pe/edu/ulima/doglovev01/RegistroPersonaActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/som/pe/edu/ulima/doglovev01/menu1_Fragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/som/pe/edu/ulima/doglovev01/menu2_Fragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/som/pe/edu/ulima/doglovev01/menu3_Fragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/som/pe/edu/ulima/doglovev01/menu4_Fragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/som/pe/edu/ulima/doglovev01/menu5_Fragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_my.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_my.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_navigation_drawer.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/menu1_layout.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/menu2_layout.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/menu3_layout.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/menu4_layout.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/menu5_layout.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/registropersona.xml" charset="UTF-8" />
+  </component>
+</project>
+
